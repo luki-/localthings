@@ -588,8 +588,8 @@
         "state": {
           "off": "Wył.",
           "whiskey_iceball_3": "3 kostki/dzień",
-          "whiskey_iceball_6": "6 kostki/dzień",
-          "whiskey_iceball_9": "9 kostki/dzień"
+          "whiskey_iceball_6": "6 kostek/dzień",
+          "whiskey_iceball_9": "9 kostek/dzień"
         }
       },
       "led_brightness": {
